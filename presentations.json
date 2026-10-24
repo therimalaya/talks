@@ -1,0 +1,467 @@
+[
+  {
+    "folder": "norbis-2015",
+    "title": "Multimatrix Extension of Partial Least Square",
+    "subtitle": "A Generalized Multivariate Methodology",
+    "date": "2015-10-28",
+    "location": "Bergen, Norway",
+    "preview": "images/norbis-2015.png",
+    "type": "Conference Poster",
+    "repo": "https://github.com/Mathatistics/NORBIS",
+    "tags": ["Partial Least Squares", "Multivariate Methods", "Methodology"],
+    "resources": {
+      "html": null,
+      "pdf": "main.pdf"
+    }
+  },
+  {
+    "folder": "private/midway-seminar",
+    "title": "PhD Midway Seminar",
+    "subtitle": "Simulation Tool and its Application",
+    "date": "2017-03-07",
+    "location": "Norwegian University of Life Sciences, Ås",
+    "preview": "images/midway-seminar.png",
+    "type": "PhD Presentation",
+    "repo": "https://github.com/Mathatistics/midway-seminar",
+    "tags": ["Simulation", "Methodology", "R"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "norstat-2016",
+    "title": "simrel-m",
+    "subtitle": "A simulation tool and its application",
+    "date": "2016-06-28",
+    "location": "Copenhagen, Denmark",
+    "preview": "images/norstat-2016.png",
+    "type": "Conference Poster",
+    "repo": "https://github.com/Mathatistics/NORSTAT",
+    "tags": ["Simulation", "Methodology", "R"],
+    "resources": {
+      "html": null,
+      "pdf": "Poster.pdf"
+    }
+  },
+  {
+    "folder": "nsm-2017",
+    "title": "simrel-m in Practice",
+    "subtitle": "A simulation tool and its application",
+    "date": "2017-06-13",
+    "location": "Fredrikstad, Norway",
+    "preview": "images/nsm-2017.png",
+    "type": "Conference Presentation",
+    "repo": "https://github.com/Mathatistics/nsm-17",
+    "tags": ["Simulation", "Methodology", "R"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "biostat-2018",
+    "title": "Simulating Linear Model Data",
+    "subtitle": "A versatile tool for complex covariance structures",
+    "date": "2018-03-15",
+    "location": "Oslo, Norway",
+    "preview": "images/biostat-2018.png",
+    "type": "Group Presentation",
+    "repo": "https://github.com/therimalaya/talksimrel-1",
+    "tags": ["Simulation", "Linear Models", "R"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "klekken-2018",
+    "title": "Versatile Simulation with simrel",
+    "subtitle": "Methodological framework and application examples",
+    "date": "2018-04-10",
+    "location": "Klekken, Norway",
+    "preview": "images/klekken-2018.png",
+    "type": "Seminar Presentation",
+    "repo": "https://github.com/therimalaya/simrel-demonstration",
+    "tags": ["Simulation", "Methodology"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "user-2018",
+    "title": "Linear Model Simulation in R",
+    "subtitle": "A versatile tool for simulating linear model data",
+    "date": "2018-07-04",
+    "location": "Brisbane, Australia",
+    "preview": "images/user-2018.png",
+    "type": "Conference Presentation",
+    "repo": "https://github.com/therimalaya/UseR-2018",
+    "tags": ["Simulation", "R", "UseR"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "ssc16",
+    "title": "Multi-Response Prediction Methods",
+    "subtitle": "A comparative evaluation of multivariate regression techniques",
+    "date": "2019-06-19",
+    "location": "Oslo, Norway",
+    "preview": "images/ssc16.png",
+    "type": "Conference Presentation",
+    "repo": "https://github.com/therimalaya/SSC16",
+    "tags": ["Multivariate Methods", "Prediction", "Methodology"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "trial-lecture",
+    "title": "Use of Simulation in Statistics",
+    "subtitle": "PhD Trial Lecture on computational data generation",
+    "date": "2019-09-20",
+    "location": "Norwegian University of Life Sciences, Ås",
+    "preview": "images/trial-lecture.png",
+    "type": "PhD Presentation",
+    "repo": "https://github.com/therimalaya/PhD-Trial-Lecture",
+    "tags": ["Simulation", "Statistics", "Methodology"],
+    "resources": {
+      "html": "docs/index.html",
+      "pdf": null
+    }
+  },
+  {
+    "folder": "dissertation",
+    "title": "Exploration of Multi-Response Multivariate Methods",
+    "subtitle": "PhD Defense & Doctoral Dissertation",
+    "date": "2019-09-20",
+    "location": "Norwegian University of Life Sciences, Ås",
+    "preview": "images/dissertation.png",
+    "type": "PhD Presentation",
+    "repo": "https://github.com/therimalaya/PhD-Dissertation",
+    "tags": ["PhD Dissertation", "Multivariate Methods", "Statistics"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "melanoma-world-conference",
+    "title": "Melanoma Tumour Thickness in Norway",
+    "subtitle": "Long-term population trends, 1983–2019",
+    "date": "2021-04-15",
+    "location": "Virtual (Online)",
+    "preview": "images/melanoma-world-conference.png",
+    "type": "Conference Poster",
+    "repo": "https://github.com/therimalaya/Melanoma-World-Conference-Poster",
+    "tags": ["Melanoma", "Epidemiology", "Survival Analysis"],
+    "resources": {
+      "html": "Poster/index.html",
+      "pdf": "Poster/index.pdf"
+    }
+  },
+  {
+    "folder": "private/radium-ggplot2",
+    "title": "Grammar of Graphics with ggplot2",
+    "subtitle": "Introduction to publication-quality scientific visualization",
+    "date": "2022-12-01",
+    "location": "Radium Hospital, Oslo",
+    "preview": "images/radium-ggplot2.png",
+    "type": "Group Presentation",
+    "repo": "https://github.com/therimalaya/ggplot2-introduction",
+    "tags": ["R", "ggplot2", "Visualization"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "ancr-symposium-2022",
+    "title": "Melanoma Tumour Thickness Trends",
+    "subtitle": "Trends in Norway, 1983–2019 (ANCR Symposium)",
+    "date": "2022-09-14",
+    "location": "Tórshavn, Faroe Islands",
+    "preview": "images/ancr-symposium-2022.png",
+    "type": "Conference Presentation",
+    "repo": "https://github.com/therimalaya/ANCR-Symposium-2022",
+    "tags": ["Melanoma", "Epidemiology", "Trends"],
+    "resources": {
+      "html": "Poster/index.html",
+      "pdf": "Poster/index.pdf"
+    }
+  },
+  {
+    "folder": "private/assignments/nih-football",
+    "title": "Match Load & Health Problems in Football",
+    "subtitle": "A Research Overview and Epidemiological Surveillance Framework",
+    "date": "2025-02-20",
+    "location": "Norwegian School of Sport Sciences (NIH), Oslo",
+    "preview": "images/nih-football.png",
+    "type": "Job Interview",
+    "repo": "https://github.com/therimalaya/Match-Load-Health-Football",
+    "tags": ["Sports Medicine", "Football", "Health Surveillance"],
+    "resources": {
+      "html": "https://www.figma.com/deck/B7K83yqMFOZK0KV5x3QCNb/NIH-Interview-Presentation?node-id=1-38&t=kSFfEa4j5vBRbbqp-1",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "private/vetinst-biostat",
+    "title": "Melanoma Incidence in Nordic Countries",
+    "subtitle": "Comparative epidemiology and biostatistical modeling",
+    "date": "2023-06-20",
+    "location": "Veterinary Institute, Ås",
+    "preview": "images/vetinst-biostat.png",
+    "type": "Job Interview",
+    "repo": "https://github.com/therimalaya/vetinst-biostat",
+    "tags": ["Melanoma", "Incidence", "Nordic Countries"],
+    "resources": {
+      "html": "index.html",
+      "pdf": null
+    }
+  },
+  {
+    "folder": "private/crn-2024",
+    "title": "Invasive Melanoma Thickness in Norway",
+    "subtitle": "Trends and epidemiological characteristics, 1983–2019",
+    "date": "2024-10-30",
+    "location": "Cancer Registry of Norway, Oslo",
+    "preview": "images/crn-2024.png",
+    "type": "Group Presentation",
+    "repo": "https://github.com/therimalaya/CRN-2024",
+    "tags": ["Melanoma", "Epidemiology", "Trends"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index-optimized.pdf"
+    }
+  },
+  {
+    "folder": "private/self-intro",
+    "title": "Raju Rimal",
+    "subtitle": "Postdoctoral Fellow in Biostatistics (Self-Introduction)",
+    "date": "2020-11-28",
+    "location": "OCBE, Oslo, Norway",
+    "preview": "images/self-intro.png",
+    "type": "Group Presentation",
+    "repo": "",
+    "tags": ["Introduction", "Biography"],
+    "resources": {
+      "html": "https://www.figma.com/deck/ozkdGUHIK4OZpFhUMOlIM9/Self-Intro?node-id=1-25&t=L8l9LtE7Jx5HhgOp-1",
+      "pdf": "Self-Introduction.pdf"
+    }
+  },
+  {
+    "folder": "nofe-2021",
+    "title": "Tumour Thickness of Melanoma in Norway",
+    "subtitle": "Long-term trend analysis (NOFE Conference)",
+    "date": "2021-11-04",
+    "location": "Bergen, Norway",
+    "preview": "images/nofe-2021.png",
+    "type": "Conference Presentation",
+    "repo": "https://github.com/therimalaya/NOFE-2021",
+    "tags": ["Melanoma", "Epidemiology", "Survival Analysis"],
+    "resources": {
+      "html": null,
+      "pdf": "Presentation.pdf"
+    }
+  },
+  {
+    "folder": "nofe-2023",
+    "title": "Melanoma Survival by Tumour Thickness",
+    "subtitle": "Nation-wide register analysis in Norway, 1983–2019",
+    "date": "2023-11-15",
+    "location": "Trondheim, Norway",
+    "preview": "images/nofe-2023.png",
+    "type": "Conference Presentation",
+    "repo": "https://github.com/therimalaya/NOFE-2023",
+    "tags": ["Melanoma", "Survival Analysis", "Epidemiology"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "private/ocbe-seminar",
+    "title": "Long-Term Tumour Thickness Trends",
+    "subtitle": "Prognostic evaluation and survival analysis at OCBE",
+    "date": "2021-08-18",
+    "location": "OCBE, Oslo, Norway",
+    "preview": "images/ocbe-seminar.png",
+    "type": "Group Presentation",
+    "repo": "https://github.com/therimalaya/OCBE-Seminar-2021",
+    "tags": ["Melanoma", "Epidemiology", "Survival Analysis"],
+    "resources": {
+      "html": null,
+      "pdf": "Presentation-OCBE-Seminar.pdf"
+    }
+  },
+  {
+    "folder": "private/skin-cancer-workshop-2022",
+    "title": "Intensive Melanoma Thickness in Norway",
+    "subtitle": "Workshop presentation on longitudinal trends, 1983–2019",
+    "date": "2022-06-20",
+    "location": "OCBE, Oslo, Norway",
+    "preview": "images/skin-cancer-workshop.png",
+    "type": "Seminar Presentation",
+    "repo": "https://github.com/therimalaya/skin-cancer-workshop-2022",
+    "tags": ["Melanoma", "Epidemiology", "Trends"],
+    "resources": {
+      "html": null,
+      "pdf": "Presentation.pdf"
+    }
+  },
+  {
+    "folder": "private/meetings/project-introduction",
+    "title": "Prognostic Factors in Cutaneous Melanoma",
+    "subtitle": "A basic introduction to the postdoctoral project",
+    "date": "2020-11-05",
+    "location": "OCBE, Oslo, Norway",
+    "preview": "images/project-introduction.png",
+    "type": "Meeting Presentation",
+    "repo": "https://github.com/therimalaya/postdoc-project-intro",
+    "tags": ["Melanoma", "Prognosis", "Epidemiology"],
+    "resources": {
+      "html": "index.html",
+      "pdf": null
+    }
+  },
+  {
+    "folder": "private/meetings/user-group-meeting-2021",
+    "title": "Melanoma Tumour Thickness Trends",
+    "subtitle": "Preliminary results presented to the user group",
+    "date": "2021-04-21",
+    "location": "OCBE, Oslo, Norway",
+    "preview": "images/user-meeting-2021.png",
+    "type": "Meeting Presentation",
+    "repo": "https://github.com/therimalaya/user-group-meeting-2021",
+    "tags": ["Melanoma", "Epidemiology", "Trends"],
+    "resources": {
+      "html": null,
+      "pdf": "Priliminary-Results.pdf"
+    }
+  },
+  {
+    "folder": "private/meetings/user-group-meeting-2022",
+    "title": "Melanoma Tumour Thickness in Norway",
+    "subtitle": "An analysis of survival and trend, 1983–2019",
+    "date": "2022-12-14",
+    "location": "OCBE, Oslo, Norway",
+    "preview": "images/user-meeting-2022.png",
+    "type": "Meeting Presentation",
+    "repo": "https://github.com/therimalaya/UserRep-2022",
+    "tags": ["Melanoma", "Survival Analysis", "Trends"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "private/meetings/user-group-meeting-2023",
+    "title": "Melanoma Tumour Thickness in Norway",
+    "subtitle": "Updated survival trend analysis, 1983–2019",
+    "date": "2023-06-13",
+    "location": "OCBE, Oslo, Norway",
+    "preview": "images/user-meeting-2023.png",
+    "type": "Meeting Presentation",
+    "repo": "https://github.com/therimalaya/UserRep-2023",
+    "tags": ["Melanoma", "Survival Analysis", "Trends"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "private/bias-2022",
+    "title": "Melanoma Tumour Thickness in Norway",
+    "subtitle": "An analysis of incidence and survival, 1983–2019",
+    "date": "2022-11-24",
+    "location": "NMBU, Ås",
+    "preview": "images/bias-2022.png",
+    "type": "Group Presentation",
+    "repo": "https://github.com/therimalaya/bias-2022",
+    "tags": ["Melanoma", "Incidence", "Survival Analysis"],
+    "resources": {
+      "html": "index.html",
+      "pdf": "index.pdf"
+    }
+  },
+  {
+    "folder": "private/meetings/skin-cancer-mi-segmented",
+    "title": "Segmented Regression in Melanoma",
+    "subtitle": "A nation-wide study with multiple imputation, 1983–2019",
+    "date": "2022-02-04",
+    "location": "OCBE, UiO",
+    "preview": "images/skin-cancer-mi-segmented.png",
+    "type": "Meeting Presentation",
+    "repo": "https://github.com/therimalaya/skin-cancer-mi-segmented",
+    "tags": ["Melanoma", "Multiple Imputation", "Segmented Regression"],
+    "resources": {
+      "html": "index.html",
+      "pdf": null
+    }
+  },
+  {
+    "folder": "private/meetings/skin-cancer-multiple-imputation",
+    "title": "Thickness Over Time & Multiple Imputation",
+    "subtitle": "Adjusted incidence rate modeling in melanoma epidemiology",
+    "date": "2022-01-20",
+    "location": "OCBE, UiO",
+    "preview": "images/skin-cancer-multiple-imputation.png",
+    "type": "Meeting Presentation",
+    "repo": "https://github.com/therimalaya/skin-cancer-multiple-imputation",
+    "tags": ["Melanoma", "Multiple Imputation", "Incidence Rate"],
+    "resources": {
+      "html": null,
+      "pdf": "Multiple-Imputation.pdf"
+    }
+  },
+  {
+    "folder": "private/meetings/skin-cancer-relative-survival",
+    "title": "Discussion on Relative Survival",
+    "subtitle": "Melanoma survival in Norway by tumour thickness, 1983–2019",
+    "date": "2022-10-19",
+    "location": "OCBE, UiO",
+    "preview": "images/skin-cancer-relative-survival.png",
+    "type": "Meeting Presentation",
+    "repo": "https://github.com/therimalaya/skin-cancer-relative-survival",
+    "tags": ["Melanoma", "Relative Survival", "Epidemiology"],
+    "resources": {
+      "html": null,
+      "pdf": "index-2.pdf"
+    }
+  },
+  {
+    "folder": "private/meetings/skin-cancer-short-presentation",
+    "title": "Melanoma Tumour Thickness Trends",
+    "subtitle": "Short departmental briefing on Norwegian findings",
+    "date": "2021-09-28",
+    "location": "OCBE, UiO",
+    "preview": "images/skin-cancer-short-presentation.png",
+    "type": "Meeting Presentation",
+    "repo": "https://github.com/therimalaya/skin-cancer-short-presentation",
+    "tags": ["Melanoma", "Epidemiology"],
+    "resources": {
+      "html": null,
+      "pdf": "Short-Presentation.pdf"
+    }
+  },
+  {
+    "folder": "private/assignments/niva-exposure-analysis",
+    "title": "Qualification Alignment",
+    "subtitle": "Spatio-Temporal Exposure Analysis & Environmental Modeling",
+    "date": "2024-05-12",
+    "location": "NIVA, Oslo",
+    "preview": "images/niva-assignment.png",
+    "type": "Job Interview",
+    "repo": "https://github.com/Mathatistics/NIVA-ExposureAnalysis",
+    "tags": ["Spatio-Temporal", "Exposure Analysis", "Environmental"],
+    "resources": {
+      "html": "Spatio-Temporal Exposure Analysis/index.html",
+      "pdf": "Qualification Alignment.pdf"
+    }
+  }
+]

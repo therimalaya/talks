@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Presentation Overview</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page-wrapper d-flex flex-column flex-md-row">
+    <!-- Sidebar Header -->
+    <header class="sidebar d-flex justify-content-center align-items-start" style="display: none;">
+      <div class="rotate-text">
+        <h1 class="mb-0">Presentation Overview</h1>
+        <p class="lead mb-0">A collection of my talks and seminars</p>
+      </div>
+    </header>
+
+    <!-- Main content -->
+    <div class="main flex-grow-1 d-flex flex-column">
+      <main class="container flex-grow-1 pt-4">
+        <!-- Controls -->
+        <div class="d-flex flex-wrap gap-3 mb-4">
+          <label for="sort-by" class="visually-hidden">Sort by:</label>
+          <select id="sort-by" class="form-select form-select-sm w-auto">
+            <option value="date-desc">Date (Newest First)</option>
+            <option value="date-asc">Date (Oldest First)</option>
+            <option value="title-asc">Title (A–Z)</option>
+            <option value="title-desc">Title (Z–A)</option>
+          </select>
+
+          <label for="type-filter" class="visually-hidden">Filter by type:</label>
+          <select id="type-filter" class="form-select form-select-sm w-auto">
+            <option value="all">All Types</option>
+            <!-- JS will add distinct types dynamically -->
+          </select>
+        </div>
+
+        <div id="presentations-container" class="masonry-grid"></div>
+
+        <div id="loading-spinner" class="text-center my-5 d-none">
+          <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading more presentations...</span>
+          </div>
+          <p class="text-muted mt-2">Loading more presentations...</p>
+        </div>
+
+        <div id="end-of-content" class="text-center my-5 text-muted d-none">
+          <p>You've reached the end of the presentations!</p>
+        </div>
+      </main>
+
+      <footer class="bg-light text-center py-3">
+        <p>&copy; <span id="current-year"></span> Your Name. All rights reserved.</p>
+      </footer>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+  <script>document.getElementById('current-year').textContent = new Date().getFullYear();</script>
+</body>
+</html>

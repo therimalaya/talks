@@ -1,0 +1,93 @@
+[submodule "slides/ancr-symposium-2022"]
+	path = slides/ancr-symposium-2022
+	url = ./slides/ancr-symposium-2022
+[submodule "slides/biostat-2018"]
+	path = slides/biostat-2018
+	url = ./slides/biostat-2018
+[submodule "slides/dissertation"]
+	path = slides/dissertation
+	url = ./slides/dissertation
+[submodule "slides/klekken-2018"]
+	path = slides/klekken-2018
+	url = ./slides/klekken-2018
+[submodule "slides/melanoma-world-conference"]
+	path = slides/melanoma-world-conference
+	url = ./slides/melanoma-world-conference
+[submodule "slides/nofe-2021"]
+	path = slides/nofe-2021
+	url = ./slides/nofe-2021
+[submodule "slides/nofe-2023"]
+	path = slides/nofe-2023
+	url = ./slides/nofe-2023
+[submodule "slides/norbis-2015"]
+	path = slides/norbis-2015
+	url = ./slides/norbis-2015
+[submodule "slides/norstat-2016"]
+	path = slides/norstat-2016
+	url = ./slides/norstat-2016
+[submodule "slides/nsm-2017"]
+	path = slides/nsm-2017
+	url = ./slides/nsm-2017
+[submodule "slides/ssc16"]
+	path = slides/ssc16
+	url = ./slides/ssc16
+[submodule "slides/trial-lecture"]
+	path = slides/trial-lecture
+	url = ./slides/trial-lecture
+[submodule "slides/user-2018"]
+	path = slides/user-2018
+	url = ./slides/user-2018
+[submodule "slides/private/bias-2022"]
+	path = slides/private/bias-2022
+	url = ./slides/private/bias-2022
+[submodule "slides/private/crn-2024"]
+	path = slides/private/crn-2024
+	url = ./slides/private/crn-2024
+[submodule "slides/private/midway-seminar"]
+	path = slides/private/midway-seminar
+	url = ./slides/private/midway-seminar
+[submodule "slides/private/ocbe-seminar"]
+	path = slides/private/ocbe-seminar
+	url = ./slides/private/ocbe-seminar
+[submodule "slides/private/radium-ggplot2"]
+	path = slides/private/radium-ggplot2
+	url = ./slides/private/radium-ggplot2
+[submodule "slides/private/skin-cancer-workshop-2022"]
+	path = slides/private/skin-cancer-workshop-2022
+	url = ./slides/private/skin-cancer-workshop-2022
+[submodule "slides/private/meetings/project-introduction"]
+	path = slides/private/meetings/project-introduction
+	url = ./slides/private/meetings/project-introduction
+[submodule "slides/private/meetings/skin-cancer-mi-segmented"]
+	path = slides/private/meetings/skin-cancer-mi-segmented
+	url = ./slides/private/meetings/skin-cancer-mi-segmented
+[submodule "slides/private/meetings/skin-cancer-multiple-imputation"]
+	path = slides/private/meetings/skin-cancer-multiple-imputation
+	url = ./slides/private/meetings/skin-cancer-multiple-imputation
+[submodule "slides/private/meetings/skin-cancer-relative-survival"]
+	path = slides/private/meetings/skin-cancer-relative-survival
+	url = ./slides/private/meetings/skin-cancer-relative-survival
+[submodule "slides/private/meetings/skin-cancer-short-presentation"]
+	path = slides/private/meetings/skin-cancer-short-presentation
+	url = ./slides/private/meetings/skin-cancer-short-presentation
+[submodule "slides/private/meetings/user-group-meeting-2021"]
+	path = slides/private/meetings/user-group-meeting-2021
+	url = ./slides/private/meetings/user-group-meeting-2021
+[submodule "slides/private/meetings/user-group-meeting-2022"]
+	path = slides/private/meetings/user-group-meeting-2022
+	url = ./slides/private/meetings/user-group-meeting-2022
+[submodule "slides/private/meetings/user-group-meeting-2023"]
+	path = slides/private/meetings/user-group-meeting-2023
+	url = ./slides/private/meetings/user-group-meeting-2023
+[submodule "slides/private/self-intro"]
+	path = slides/private/self-intro
+	url = ./slides/private/self-intro
+[submodule "slides/private/assignments/nih-football"]
+	path = slides/private/assignments/nih-football
+	url = ./slides/private/assignments/nih-football
+[submodule "slides/private/assignments/niva-exposure-analysis"]
+	path = slides/private/assignments/niva-exposure-analysis
+	url = ./slides/private/assignments/niva-exposure-analysis
+[submodule "slides/private/assignments/vetinst-biostat"]
+	path = slides/private/assignments/vetinst-biostat
+	url = ./slides/private/assignments/vetinst-biostat
